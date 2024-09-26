@@ -7,3 +7,11 @@
     justify-content: center;
 }
 
+.dis{
+    width: 20px;
+    height: 20px;
+    font-size: 30px;
+}
+.color{
+    color: rgb(28, 28, 73);
+}

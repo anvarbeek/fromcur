@@ -8,7 +8,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     } else {
         $email = trim($_POST['email']);
     }
-
     if (empty($_POST['password'])) {
         $errors[] = "parolni xato kiritingiz !!!";
     } else {
